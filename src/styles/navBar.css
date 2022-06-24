@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter';
+    font-style: normal;
+}
+.nav-bar {
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    display: flex;
+    align-items: center;
+    height: 8%;
+    color: White;
+    padding: 20px;
+}
+.nav-text {
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding-right: 40px;
+
+}
+.nav-img {
+    height: 100%;
+    margin-right: 6px;
+}
+.nav-title {
+    font-size: 1.25rem;
+    margin-right: auto;
+    padding-left: 10px;
+}
