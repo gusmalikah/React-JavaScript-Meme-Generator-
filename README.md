@@ -1,11 +1,14 @@
 # React-JavaScript(Meme-Generator)
-This project is a meme-generator where the user can input the header text placed on the top of the image and the footer text placed on the bottom of the image. The user also has the option to generator differnt images with a click on a button which generates a different image randomly.
+This project is a meme-generator where the user can input the header text placed on the top of the image and the footer text placed on the bottom of the image. The user also has the option to generator differnt images with a click on a button which generates a different image randomly fetching it from an API.
 
 # In this project following features are implemented:
+<UL>
+<li>Form is used to implement both the input fields.</>
+<li>States are used to implenent the changes in real time.</>
+<li>useEffect is used to fetch the data from the API.</>.
+</ul>
 
-Form in used to implement both the input fields.
-States are used to implenent the changes in real time.
-useEffect is used to fetch the data from the API.
+![bc7e2ea3865c48f9d236156aa753d2fe](https://user-images.githubusercontent.com/71040758/175769221-77330ec9-858c-47e8-aba4-9cc1ab79f4e4.png)
 
 
 # Getting Started with Create React App
